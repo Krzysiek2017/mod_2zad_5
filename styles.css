@@ -1,0 +1,32 @@
+﻿body {
+    margin: 0 auto;
+    width: 1200px;
+    background-color: cornsilk;
+}
+
+form input, button {
+    background-color: blanchedalmond;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.contactLabel, .contactEmail {
+    margin: 20px;
+    border: 1px solid blanchedalmond;
+    border-radius: 10px;
+    width: 600px;
+}
+
+.contactImage {
+    border-radius: 50px;
+    background-color: blanchedalmond;
+
+}
+
+.contactItem img {
+    margin: 50px;
+}
+.contactItem {
+    border-bottom: 1px solid cadetblue;
+    padding-bottom: 20px;
+}
